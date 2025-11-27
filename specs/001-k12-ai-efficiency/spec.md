@@ -75,6 +75,15 @@ A school principal wants to understand practical applications of AI that could h
 - **AI Applications**: Concrete examples of AI tools or systems that impact K-12 classroom efficiency
 - **Academic Sources**: Peer-reviewed scholarly articles from the past 10 years that provide evidence for AI's impact on education
 
+## Clarifications
+### Session 2025-11-27
+- Q: What specific threshold should we aim for regarding empirical evidence? → A: At least 75% empirical studies
+- Q: What is the primary target audience for this research paper? → A: School district administrators
+- Q: What should be the required structure of the research paper? → A: Introduction, Literature Review, Analysis, Conclusion
+- Q: Which specific AI application areas should the paper focus on for teacher workload reduction? → A: Grading, lesson planning, student assessment
+- Q: What specific student outcomes should the paper measure or discuss? → A: Academic performance, engagement, learning pace
+- Q: What constitutes a "credible" source for this research paper? → A: Peer-reviewed academic journals only
+
 ## Success Criteria *(mandatory)*
 
 ### Measurable Outcomes
@@ -85,5 +94,5 @@ A school principal wants to understand practical applications of AI that could h
 - **SC-004**: All claims in the paper are supported by evidence from peer-reviewed sources
 - **SC-005**: The final paper is between 3000-5000 words in length
 - **SC-006**: The paper is completed within 2 weeks of project start date
-- **SC-007**: At least 90% of claims in the paper are supported by empirical studies rather than theoretical discussions
+- **SC-007**: At least 75% of claims in the paper are supported by empirical studies rather than theoretical discussions
 - **SC-008**: The paper demonstrates clear connection between AI implementation and measurable improvements in teacher efficiency metrics
