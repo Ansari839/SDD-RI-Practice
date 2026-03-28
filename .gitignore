@@ -1,0 +1,44 @@
+# Research paper project related ignores
+*.tmp
+*.temp
+*.log
+*.out
+
+# Citation management tools
+/Zotero/**
+/Mendeley/**
+*.csl
+
+# User-specific files
+*.user
+*.suo
+*.iml
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+.CFUserTextEncoding
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Build outputs (if any)
+/dist/
+/build/
+/coverage/
+
+# Environment files
+.venv/
+venv/
+env/
+ENV/
+
+# Local config
+.env*
+config/
+*.config

@@ -208,3 +208,10 @@ Wait for consent; never auto-create ADRs. Group related decisions (stacks, authe
 
 ## Code Standards
 See `.specify/memory/constitution.md` for code quality, testing, performance, security, and architecture principles.
+
+## Active Technologies
+- Academic writing in Markdown format + Access to academic databases (ERIC, JSTOR, Google Scholar), citation management tool (Zotero or Mendeley) (001-k12-ai-efficiency)
+- Reference management system and document files (001-k12-ai-efficiency)
+
+## Recent Changes
+- 001-k12-ai-efficiency: Added Academic writing in Markdown format + Access to academic databases (ERIC, JSTOR, Google Scholar), citation management tool (Zotero or Mendeley)
